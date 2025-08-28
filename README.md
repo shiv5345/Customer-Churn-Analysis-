@@ -1,5 +1,6 @@
 # Customer-Churn-Analysis-
-Comprehensive Summary: Customer Churn Analysis
+## Comprehensive Summary:
+Customer Churn Analysis
 This report, authored by Shiv Chetan Kumawat, presents a thorough exploratory data analysis (EDA) of a telecommunications customer dataset. The primary goal is to understand the factors driving customer churn (i.e., customers leaving the service).
 
 1. Project Overview & Setup
