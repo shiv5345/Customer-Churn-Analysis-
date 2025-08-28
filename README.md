@@ -79,5 +79,9 @@ Payment Method: Encouraging customers to adopt automatic payment methods could r
 Internet Service: The high churn among Fiber optic users warrants investigation into service quality, pricing, and competitive positioning.
 
 ### Recommendation:
-        The company should focus its retention efforts on new customers and those without long-term contracts. Strategies could include targeted offers to convert month-to-month users to annual contracts, creating engagement campaigns for the first 6 months, promoting the value of add-on services, and making automatic payments more attractive.
+        The company should focus its retention efforts on new customers and those without long-term contracts.
+        Strategies could include targeted offers to convert month-to-month users to annual contracts, 
+        creating engagement campaigns for the first 6 months,
+        promoting the value of add-on services,
+        and making automatic payments more attractive.
 
